@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "93D8584F1B54DDB30087AA95"
+               BlueprintIdentifier = "9331D81F1B552022004D99FC"
                BuildableName = "tabbedApp.app"
                BlueprintName = "tabbedApp"
                ReferencedContainer = "container:tabbedApp.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "93D8586B1B54DDB30087AA95"
+               BlueprintIdentifier = "9331D83B1B552023004D99FC"
                BuildableName = "tabbedAppTests.xctest"
                BlueprintName = "tabbedAppTests"
                ReferencedContainer = "container:tabbedApp.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "93D8586B1B54DDB30087AA95"
+               BlueprintIdentifier = "9331D83B1B552023004D99FC"
                BuildableName = "tabbedAppTests.xctest"
                BlueprintName = "tabbedAppTests"
                ReferencedContainer = "container:tabbedApp.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "93D8584F1B54DDB30087AA95"
+            BlueprintIdentifier = "9331D81F1B552022004D99FC"
             BuildableName = "tabbedApp.app"
             BlueprintName = "tabbedApp"
             ReferencedContainer = "container:tabbedApp.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "93D8584F1B54DDB30087AA95"
+            BlueprintIdentifier = "9331D81F1B552022004D99FC"
             BuildableName = "tabbedApp.app"
             BlueprintName = "tabbedApp"
             ReferencedContainer = "container:tabbedApp.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "93D8584F1B54DDB30087AA95"
+            BlueprintIdentifier = "9331D81F1B552022004D99FC"
             BuildableName = "tabbedApp.app"
             BlueprintName = "tabbedApp"
             ReferencedContainer = "container:tabbedApp.xcodeproj">
